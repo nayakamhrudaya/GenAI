@@ -1,2 +1,2 @@
 # GenAI
-Assessmenrs related to GenAI
+Assessments related to GenAI
